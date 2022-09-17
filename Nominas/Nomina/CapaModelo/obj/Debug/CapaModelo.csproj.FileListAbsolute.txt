@@ -1,0 +1,6 @@
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaModelo\obj\Debug\CapaModelo.pdb

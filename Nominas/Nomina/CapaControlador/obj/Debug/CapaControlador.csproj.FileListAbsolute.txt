@@ -1,0 +1,9 @@
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Nominas\Nomina\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
